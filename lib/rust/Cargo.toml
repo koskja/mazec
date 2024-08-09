@@ -1,0 +1,7 @@
+[package]
+name = "mazec-rs"
+version = "1.0.0"
+edition = "2021"
+authors = ["Jan Koška <jan.koska@email.cz>"]
+
+[dependencies]
